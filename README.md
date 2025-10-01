@@ -21,7 +21,9 @@
 
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧠 AI / ML  
@@ -32,6 +34,7 @@
 
 ### 🏭 Simulation  
 ![SimPy](https://img.shields.io/badge/SimPy-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![xDEVS](https://img.shields.io/badge/xDEVS-1E90FF?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Siemens Plant Simulation](https://img.shields.io/badge/Plant%20Simulation-0078D7?style=for-the-badge&logo=siemens&logoColor=white)
 
 ### 📈 Optimization  
@@ -41,11 +44,10 @@
 ![Genetic Algorithm](https://img.shields.io/badge/Genetic%20Algorithm-795548?style=for-the-badge&logo=dna&logoColor=white)
 ![MILP](https://img.shields.io/badge/MILP-4CAF50?style=for-the-badge&logo=google&logoColor=white)
 
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Plant Simulation API](https://img.shields.io/badge/Plant%20Simulation%20API-0078D7?style=for-the-badge&logo=siemens&logoColor=white)
+### 🧰 Simulation Tools  
+![Plant Simulation](https://img.shields.io/badge/Plant%20Simulation-0078D7?style=for-the-badge&logo=siemens&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=Mathworks&logoColor=white)
 
 ---
 
