@@ -53,20 +53,13 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧠 **GA + SimPy Scheduling Optimization** | Job-Shop Scheduling을 유전 알고리즘과 DES를 결합해 Makespan을 단축하고 Throughput을 개선 | Python, DEAP, SimPy |
-| 🏭 **RL × Plant Simulation Layout Optimization** | Siemens Plant Simulation과 DQN을 연동해 물리·논리 레이아웃을 동시 최적화 | PyTorch, Plant Simulation |
-| 📈 **Menu Demand Forecasting (LG Aimers)** | 시즌, 요일, 외부 요인을 활용해 식음업장 메뉴 수요를 예측하는 시계열 모델 개발 | CatBoost, Time Series |
+| 🧠 **GA + SimPy Scheduling Optimization** | Job-Shop Scheduling 문제를 대상으로, 유전 알고리즘(GA) 기반의 스케줄 탐색과 SimPy 이산사건 시뮬레이션을 결합하여 **Makespan 단축 및 Throughput 향상**을 달성한 스케줄링–시뮬레이션 통합 최적화 파이프라인 구축 | Python, DEAP, SimPy |
+| 🏭 **RL Agent + DEVS Optimization** | DEVS(Discrete Event System Specification) 기반 제조 레이아웃 환경에서, DQN 에이전트를 학습시켜 **공정의 물리적·논리적 배치 최적화**를 수행하는 강화학습 시스템 설계 | PyTorch, xDEVS |
+| 🧠 **GBP Optimization (xDEVS)** | xDEVS 라이브러리로 구현한 제조 공정 모델에서, 강화학습 기반 에이전트를 활용해 **Global Bottleneck Point(GBP)를 자동 탐지·완화**하는 최적화 구조를 설계. 공정 내 병목 지점 식별과 자원 재배치를 통해 시스템 성능 향상 효과를 검증 | PyTorch, xDEVS |
+| 📈 **Menu Demand Forecasting (LG Aimers)** | 계절성, 요일, 외부 변수 등을 반영한 CatBoost 기반 시계열 모델을 통해 **리조트 식음업장 메뉴별 주간 판매량을 예측**하여 재고 및 인력 운영 효율화 가능성을 검증 | CatBoost, Time Series |
+
 
 👉 [View all repositories](https://github.com/yejiji?tab=repositories)
-
----
-
-## 📝 Publications & Academic Activities
-
-- 🧾 *DQN 기반 제조라인 배치 최적화 연구*, 한국정밀공학회지, 2025년 3월호 게재  
-- 🧠 *Simulation-based Multi-task RL for Layout Planning*, Journal of Manufacturing Systems (under review)  
-- 🎤 발표: CDE Summer Conference 2024, KICS Winter 2022, IEIE Autumn 2022  
-- 🏆 LG Aimers 7기 AI 해커톤 (식음업장 수요예측) 참가 및 모델 개발
 
 ---
 
