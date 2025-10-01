@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yeji Choi
 
-### 🧠 Reinforcement Learning × 🏭 Manufacturing Simulation Researcher  
-강화학습과 이산사건 시뮬레이션 기반의 제조 DX 연구를 수행하고 있는 석사 연구자입니다.  
+### 🧠 Deep Reinforcement Learning × 🏭 Manufacturing Simulation Researcher  
+딥강화학습과 이산사건 시뮬레이션 기반의 제조 DX 연구를 수행하고 있는 석사 연구자입니다.  
 생산라인 자동 배치, 스케줄링, 수요 예측 등 **현장 지향적 AI 응용 연구**에 집중하고 있으며,  
 데이터 기반 의사결정과 Digital Twin 기술의 융합을 통해 실제 공정 최적화를 목표로 하고 있습니다.
 
