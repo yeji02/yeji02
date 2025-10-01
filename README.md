@@ -14,8 +14,15 @@
 - **Production Line Throughput & Bottleneck Analysis**  
 - **Multi-objective Optimization with GA / RL / Surrogate Models**  
 - **Time Series Forecasting for Manufacturing Operations**
+---
+
+## 🧮 Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejiji)](https://solved.ac/yejiji)  
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yejiji&theme=warm)
 
 ---
+
 
 ## 🛠 Technical Stack
 
@@ -63,10 +70,4 @@
 
 👉 [View all repositories](https://github.com/yejiji?tab=repositories)
 
----
-
-## 🧮 Baekjoon Online Judge
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejiji)](https://solved.ac/yejiji)  
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yejiji&theme=warm)
 
