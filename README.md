@@ -68,20 +68,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejiji)](https://solved.ac/yejiji)  
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yejiji&theme=warm)
 
-알고리즘 문제 해결 능력을 꾸준히 키우기 위해 Baekjoon Online Judge에서 정기적으로 문제를 풉니다.  
-DP, Graph, Greedy, Implementation, Simulation 등을 중심으로 학습하고 있으며,  
-AI 및 제조 최적화 문제에도 알고리즘적 사고를 적극적으로 적용하고 있습니다.
-
----
-
-## 📊 GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejiji&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yejiji&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-- ✉️ Email: your_email@example.com  
-- 🧪 [Google Scholar](https://scholar.google.com/) | [LinkedIn](https://www.linkedin.com/in/your_profile) | [Portfolio](https://your-portfolio-site.com)
