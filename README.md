@@ -68,6 +68,6 @@
 | 📈 **Menu Demand Forecasting (LG Aimers)** | 계절성, 요일, 외부 변수 등을 반영한 CatBoost 기반 시계열 모델을 통해 **리조트 식음업장 메뉴별 주간 판매량을 예측**하여 재고 및 인력 운영 효율화 가능성을 검증 | CatBoost, Time Series |
 
 
-👉 [View all repositories](https://github.com/yejiji?tab=repositories)
+👉 [View all repositories](https://github.com/yeji02?tab=repositories)
 
 
