@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Yeji Choi
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?hl=ko&user=cUuk_7kAAAAJ&view_op=list_works&gmla=ACrTK9V5KN_mitDj5yZGm6s8cz4OATWCkFwqTVF5FZMtWxiu1y8hDBv2bpPcPGzsX2zVfg-LLd3WGNoNY8t43zigB_u-p7A1TWWBrFBxXgvHiHdmSoBQ00_wgTGiLLhneQrflD8-ViZZmTJJuXThy8dyf8WRCXDvR_XFbTVt-lcvwCJFV_aACY3n-ML3DIl_n_ojyQe2Oqm9ATd5mrTZDQ1H)
+
 ### 🧠 Deep Reinforcement Learning × 🏭 Manufacturing Simulation Researcher  
 딥강화학습과 이산사건 시뮬레이션 기반의 제조 DX 연구를 수행하고 있는 석사 연구자입니다.  
 생산라인 자동 배치, 스케줄링, 수요 예측 등 **현장 지향적 AI 응용 연구**에 집중하고 있으며,  
