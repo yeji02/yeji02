@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yeji Choi
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?hl=ko&user=cUuk_7kAAAAJ&view_op=list_works&gmla=ACrTK9V5KN_mitDj5yZGm6s8cz4OATWCkFwqTVF5FZMtWxiu1y8hDBv2bpPcPGzsX2zVfg-LLd3WGNoNY8t43zigB_u-p7A1TWWBrFBxXgvHiHdmSoBQ00_wgTGiLLhneQrflD8-ViZZmTJJuXThy8dyf8WRCXDvR_XFbTVt-lcvwCJFV_aACY3n-ML3DIl_n_ojyQe2Oqm9ATd5mrTZDQ1H)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yeji02/yeji02/blob/main/%EC%B5%9C%EC%98%88%EC%A7%80_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf?raw=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yeji02/yeji02/raw/main/%EC%B5%9C%EC%98%88%EC%A7%80_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 ### 🧠 Deep Reinforcement Learning × 🏭 Manufacturing Simulation Researcher  
 딥강화학습과 이산사건 시뮬레이션 기반의 제조 DX 연구를 수행하고 있는 석사 연구자입니다.  
