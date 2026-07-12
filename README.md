@@ -21,7 +21,6 @@
 ## 🧮 Baekjoon Online Judge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejiji)](https://solved.ac/yejiji)  
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yejiji&theme=warm)
 
 ---
 
